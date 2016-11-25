@@ -6,6 +6,8 @@
  * Time: 16:06
  */
 
-class a{
-    public $a = '===';
-}
+return array(
+    'a' => '1',
+    'b' => '2',
+    'c' => '3',
+);
