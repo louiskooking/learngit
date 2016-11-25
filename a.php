@@ -7,5 +7,5 @@
  */
 
 class a{
-
+    public $a = '===';
 }
