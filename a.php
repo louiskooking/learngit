@@ -6,4 +6,4 @@
  * Time: 16:06
  */
 
-return array('a'=>'A', 'b'=>'B');
+return array('a'=>'A', 'b'=>'B', 'c'=>'C');
